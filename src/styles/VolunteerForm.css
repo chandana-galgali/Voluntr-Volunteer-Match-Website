@@ -1,0 +1,43 @@
+/* VolunteerForm.css */
+.volunteer-form-page {
+  padding: 40px;
+  background-color: var(--secondary-color); /* Dark Brown */
+  border-radius: 8px;
+  max-width: 600px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.volunteer-form-page h2 {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.volunteer-form-page input,
+.volunteer-form-page textarea {
+  width: 100%;
+  padding: 15px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.volunteer-form-page button {
+  padding: 15px 30px;
+  background-color: var(--primary-color); /* Pastel Green */
+  color: var(--background-color);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1.1rem;
+  display: block;
+  margin: 0 auto;
+}
+
+.volunteer-form-page button:hover {
+  background-color: var(--secondary-color); /* Dark Brown */
+}

@@ -1,0 +1,54 @@
+.volunteer-list-page {
+  padding: 40px;
+  background-color: var(--secondary-color);
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+}
+
+.volunteer-list-page h2 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
+
+.volunteer-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.volunteer-card {
+  background-color: var(--primary-color); 
+  padding: 20px;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+
+}
+
+.volunteer-card:hover {
+  transform: scale(1.05);
+}
+
+.volunteer-card h3 {
+  font-size: 1.5rem;
+  color: var(--secondary-color);
+}
+
+.volunteer-card p {
+  font-size: 1rem;
+  color: var(--secondary-color);
+}
+
+.apply-button {
+  padding: 10px 20px;
+  background-color: var(--secondary-color); 
+  color: var(--background-color);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.apply-button:hover {
+  background-color: var(--primary-color); 
+}
