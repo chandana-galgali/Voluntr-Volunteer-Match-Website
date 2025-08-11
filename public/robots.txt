@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://voluntr-volunteer-match-website.vercel.app/sitemap.xml
