@@ -1,7 +1,6 @@
-// /pages/HomePage.js
 import React from 'react';
 import '../styles/HomePage.css';
-import heroImage from '../assets/hero-image.jpg'; // Image path
+import heroImage from '../assets/hero-image.jpg'; 
 
 const HomePage = () => {
   return (

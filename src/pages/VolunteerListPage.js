@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaPaw, FaChalkboardTeacher, FaRecycle, FaHandsHelping, FaPizzaSlice, FaHeart, FaPhoneAlt, FaFootballBall, FaMask, FaHouseDamage, FaTabletAlt, FaSmile } from 'react-icons/fa'; // Corrected imports
+import { FaPaw, FaChalkboardTeacher, FaRecycle, FaHandsHelping, FaPizzaSlice, FaHeart, FaPhoneAlt, FaFootballBall, FaMask, FaHouseDamage, FaTabletAlt, FaSmile } from 'react-icons/fa';
 import '../styles/VolunteerList.css';
 
 const VolunteerListPage = () => {

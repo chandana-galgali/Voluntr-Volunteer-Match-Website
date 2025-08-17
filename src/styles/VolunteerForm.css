@@ -1,7 +1,6 @@
-/* VolunteerForm.css */
 .volunteer-form-page {
   padding: 40px;
-  background-color: var(--secondary-color); /* Dark Brown */
+  background-color: var(--secondary-color); 
   border-radius: 8px;
   max-width: 600px;
   margin: auto;
@@ -28,7 +27,7 @@
 
 .volunteer-form-page button {
   padding: 15px 30px;
-  background-color: var(--primary-color); /* Pastel Green */
+  background-color: var(--primary-color); 
   color: var(--background-color);
   border: none;
   border-radius: 5px;
@@ -39,5 +38,5 @@
 }
 
 .volunteer-form-page button:hover {
-  background-color: var(--secondary-color); /* Dark Brown */
+  background-color: var(--secondary-color);
 }
