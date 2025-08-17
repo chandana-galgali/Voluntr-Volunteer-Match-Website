@@ -25,6 +25,10 @@
   font-size: 1rem;
 }
 
+.volunteer-form-page label {
+  color: var(--background-color);
+}
+
 .volunteer-form-page button {
   padding: 15px 30px;
   background-color: var(--primary-color); 
@@ -38,5 +42,6 @@
 }
 
 .volunteer-form-page button:hover {
-  background-color: var(--secondary-color);
+  background-color: var(--background-color);
+  color: var(--primary-color);
 }
