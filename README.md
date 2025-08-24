@@ -34,6 +34,7 @@ npm start
 Open your browser and visit http://localhost:3000 to see the application.
 
 **Scripts**
+
 *npm start*: Runs the app in development mode.
 
 *npm test*: Launches the test runner.
