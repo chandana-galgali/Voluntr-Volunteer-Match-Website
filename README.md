@@ -1,5 +1,7 @@
 ## Voluntr - Your Gateway to Community Service
+
 **Project Description**
+
 Voluntr is a web application that aims to simplify the process of finding and applying for local volunteer opportunities. The platform allows users to browse a variety of community service roles, from tutoring and environmental cleanup to animal shelter support and disaster relief assistance. Volunteers can easily submit their information and skills through a dedicated form to get matched with opportunities that fit their interests.
 
 **Features**
