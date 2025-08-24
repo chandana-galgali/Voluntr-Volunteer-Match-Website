@@ -35,7 +35,11 @@ Open your browser and visit http://localhost:3000 to see the application.
 
 **Scripts**
 *npm start*: Runs the app in development mode.
+
 *npm test*: Launches the test runner.
+
 *npm run build*: Builds the app for production.
+
 *npm run eject*: Ejects the app configuration.
+
 *npm run e2e*: Runs end-to-end tests with Playwright.
