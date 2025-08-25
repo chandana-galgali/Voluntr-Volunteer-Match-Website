@@ -18,7 +18,7 @@ const HomePage = () => {
       />
       <div className="about">
         <h2>What We Do?</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>At Voluntr, our mission is to bridge the gap between passionate individuals and organizations in need. We believe that everyone has the power to make a difference, and we provide the platform to make that happen. Whether you're interested in mentoring youth, supporting animal shelters, or participating in environmental cleanups, Voluntr offers a diverse range of opportunities to match your skills and interests. Our platform simplifies the process of finding and signing up for volunteer roles, making it easier than ever to contribute to your community and create lasting change. Join us today and become part of a network of dedicated volunteers committed to building a better world, one act of kindness at a time.</p>
       </div>
     </div>
   );
