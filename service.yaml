@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: voluntr-app-service
+spec:
+  type: LoadBalancer # Exposes the service on a cloud provider's load balancer.
+  selector:
+    app: voluntr-app
+  ports:
+    - protocol: TCP
+      port: 80 # The port the service will be exposed on.
+      targetPort: 80 # The port the container is listening on.

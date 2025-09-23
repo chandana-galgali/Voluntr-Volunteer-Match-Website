@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: voluntr-app-deployment
+  labels:
+    app: voluntr-app
+spec:
+  replicas: 2 # You can change this to 1 or more to control how many instances run.
+  selector:
+    matchLabels:
+      app: voluntr-app
+  template:
+    metadata:
+      labels:
+        app: voluntr-app
+    spec:
+      containers:
+      - name: voluntr-app-container
+        image: chandanagalgali/voluntr-app:2.0 # This is the image you built and pushed.
+        ports:
+        - containerPort: 80 # NGINX serves the website on this port.

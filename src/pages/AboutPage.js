@@ -13,7 +13,7 @@ const AboutPage = () => {
       </p>
       <h3>Our Mission</h3>
       <p>
-        To connect, empower, and inspire community engagement by providing a seamless and accessible platform for volunteers and organizations to come together and create positive change.
+        To connect, empower, and inspire community engagement by providing a seamless and accessible platform for volunteers and organizations to come together and create positive change. We are committed to making a difference, one volunteer at a time.
       </p>
     </div>
   );
